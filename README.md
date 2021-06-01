@@ -59,5 +59,3 @@ OUT(wFruitCache>K0 AND SM412,aDisplay[wFruitCache]);
 **程序如果Bug，烦请指出，有其它想法意见，欢迎交流探讨🤝**
 
 **我私人微信号为：fastudy163，个人公众号在微信搜索【干工控】即可找到。**
-
-![干工控微信号](https://pic.imgdb.cn/item/60b3e00639f6859bc2f14ef2.png)
